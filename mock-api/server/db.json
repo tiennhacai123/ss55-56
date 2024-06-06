@@ -1,0 +1,19 @@
+{
+    "users":[
+        {
+            "id":1,
+            "title":"Hello my friend",
+            "content":"Tien dep trai",
+            "thumbnail":"https://w7.pngwing.com/pngs/802/825/png-transparent-redbubble-polite-cat-meme-funny-cat-meme-thumbnail.png",
+            "created_at":"6/6/2024",
+            "created_by":"Tien dep trai",
+            "comments":[
+            P    {
+                "id":1,
+                "content":"Bài viết rất ý nghĩa",
+                "created_at":"22/03/2024",
+                "user_id":2
+            }]
+        }
+    ]
+}
